@@ -1,0 +1,7 @@
+.idea
+clients
+node_modules
+documentation
+output
+pnpm-lock.yaml
+servers
