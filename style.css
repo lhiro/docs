@@ -1,0 +1,11 @@
+#navbar div[class="flex items-center lg:px-12 h-16 min-w-0 mx-4 lg:mx-0"] {
+    display: none;
+}
+
+div[class="flex flex-row gap-12 box-border w-full pt-40 lg:pt-10"] {
+    padding-top: 0;
+}
+
+#sidebar {
+    top: 48px !important;
+}

@@ -27,13 +27,6 @@
       ]
     }
   },
-  "logo": {
-    "light": "https://investoday.net/assets/logo.e8f8d1cb.png",
-    "dark": "https://investoday.net/assets/logo.e8f8d1cb.png"
-  },
-  "navbar": {
-    "links": []
-  },
   "footer": {
   }
 }
